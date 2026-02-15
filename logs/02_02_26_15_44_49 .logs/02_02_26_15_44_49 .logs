@@ -1,0 +1,12 @@
+[ 2026-02-02 15:44:49,250 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2026-02-02 15:44:49,250 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2026-02-02 15:44:49,252 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-02-02 15:44:49,652 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-02-02 15:44:49,657 ] 97 werkzeug - INFO -  * Debugger PIN: 825-280-433
+[ 2026-02-02 15:56:13,910 ] 8 root - INFO - We are testing the seconnd method of logging
+[ 2026-02-02 15:56:13,984 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 15:56:13] "GET / HTTP/1.1" 200 -
+[ 2026-02-02 15:56:14,650 ] 97 werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 15:56:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2026-02-02 16:02:14,002 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ABHISHEK KUMAR SINGH\\Desktop\\MACHINE LEARNING\\admission_predication\\src\\exception.py', reloading
+[ 2026-02-02 16:02:14,692 ] 97 werkzeug - INFO -  * Restarting with stat
+[ 2026-02-02 16:42:04,313 ] 97 werkzeug - INFO -  * Restarting with stat

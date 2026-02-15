@@ -1,0 +1,24 @@
+from setuptools import find_packages, setup
+from typing import List
+
+HYPHEN_E_DOT = "-e ."
+
+def get_requirements(file_path: str) -> List[str]:
+    
+    with open(file_path) as file_obj:
+        requirements = [req.strip() for req in file_obj.readlines()]
+
+        if HYPHEN_E_DOT in requirements:
+            requirements.remove(HYPHEN_E_DOT)
+
+    return requirements
+
+
+setup(
+    name="mlproject",
+    version="0.0.1",
+    author="Abhishek Kumar Singh",
+    author_email="coderabhi007@gmail.com",
+    packages=find_packages(exclude=("tests",)),
+    install_requires=get_requirements("requirements.txt"),
+)

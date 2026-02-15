@@ -1,0 +1,17 @@
+[ 2026-02-15 13:24:23,858 ] 33 root - INFO - Split Data into Train test and test Data
+[ 2026-02-15 13:24:23,920 ] 39 root - INFO - Data Injection is Completed
+[ 2026-02-15 13:24:23,972 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,974 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,983 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,985 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,987 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,989 ] 113 root - INFO - Train Data Outlier Transform
+[ 2026-02-15 13:24:23,992 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:23,994 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:23,997 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:23,998 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:24,000 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:24,002 ] 117 root - INFO - Test Data Outlier Transform
+[ 2026-02-15 13:24:24,002 ] 124 root - INFO - Divide Train Data into Dependent and Independent Features
+[ 2026-02-15 13:24:24,007 ] 130 root - INFO - Divide Test Data into Dependent and Independent Features
+[ 2026-02-15 13:24:24,008 ] 136 root - INFO - Apply Transformation on Test Data And Train Data
